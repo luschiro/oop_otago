@@ -1,2 +1,2 @@
 # NZ-Code-Java
-Labs from General Programming class (2015)
+Labs from general programming class (2015)
