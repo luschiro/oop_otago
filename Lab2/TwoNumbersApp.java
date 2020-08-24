@@ -1,6 +1,6 @@
 /**  Lab 2 COMP160 Part 1 TwoNumbersApp.java    * (your name) July 2014 */
 public class TwoNumbersApp{ 
-    public static <String> void main(String[] args) {
+    public static void main(String[] args) {
         double num1;  //declaration, specifies data type and name
         double num2;
         double sum;
